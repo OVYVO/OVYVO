@@ -2,11 +2,13 @@
 
 ### I'm Ryan, a frontend developer from China.
 
-<div align="left" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=OVYVO&theme=buefy&show_icons=true">
-</div>
-<div align="right" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OVYVO&theme=buefy&show_icons=true">
+<div style="display: flex">
+   <div width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=OVYVO&theme=buefy&show_icons=true">
+  </div>
+  <div width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OVYVO&theme=buefy&show_icons=true">
+  </div>
 </div>
 
 -   🌏 I come from China
