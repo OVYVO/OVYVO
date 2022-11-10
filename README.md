@@ -9,7 +9,7 @@
 </div>
 
 
--   🌏 I come from China
+-   🌏 I come from ShangHai China
 -   🌱 I’m currently learning TS and ThreeJS
 -   💬 Ask me about anything related Program
 -   🔭 Doing something about open source
@@ -19,12 +19,10 @@
 
 ## 🚀 Language And Tools
 
-<div align="center" >
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-  <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+<div align="center"> 
+ <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVYVO&layout=compact" /> 
 </div>
 
-## Form
+## 🚀 Form
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=OVYVO&theme=minimal" /> </div>
 
