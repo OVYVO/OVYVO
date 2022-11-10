@@ -26,5 +26,5 @@
 </div>
 
 ## Form
-[![OVYVO's github activity graph](https://activity-graph.herokuapp.com/graph?username=OVYVO&theme=minimal)](https://github.com/OVYVO)
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=OVYVO&theme=minimal" /> </div>
 
