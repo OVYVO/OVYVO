@@ -1,10 +1,11 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">Hey! here
 
-### I'm OVYVO****, a frontend developer from China.
+### I'm OVYVO, a frontend developer from China.
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=OVYVO&theme=buefy&show_icons=true">](https://metrics.lecoq.io/about/OVYVO)
 
 -   🌏 I come from China
 -   🌱 I’m currently learning TS and ThreeJS
+-   💬 Ask me about anything related Program
 -   🔭 Doing something about open source
 -   📝 I regulary write articles on my blog
 -   📫 relation me vue12306@163.com
