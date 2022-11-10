@@ -3,8 +3,8 @@
 ### I'm Ryan, a frontend developer from China.
 
 <div align="center">
-  [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=OVYVO&theme=buefy&show_icons=true">](https://metrics.lecoq.io/about/OVYVO)
-  [<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=OVYVO&theme=buefy&show_icons=true">](https://metrics.lecoq.io/about/OVYVO)
+  [<img width="50%" src="https://github-readme-stats.vercel.app/api?username=OVYVO&theme=buefy&show_icons=true">](https://metrics.lecoq.io/about/OVYVO)
+  [<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=OVYVO&theme=buefy&show_icons=true">](https://metrics.lecoq.io/about/OVYVO)
 </div>
 
 -   🌏 I come from China
