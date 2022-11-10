@@ -17,10 +17,10 @@
 -   📫 relation me vue12306@163.com
 
 
-## 🚀 Language And Tools
+## 🚀 Language
 
 <div align="left"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVYVO&layout=compact" /> 
+ <img width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVYVO&layout=compact" /> 
 </div>
 
 ## 🚀 Contributions
