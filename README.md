@@ -4,8 +4,8 @@
 
 
 <div align="center">
- <img style="float: left"  src="https://github-readme-stats.vercel.app/api?username=OVYVO&theme=buefy&show_icons=true">
- <img style="float: right" src="https://github-readme-streak-stats.herokuapp.com/?user=OVYVO&theme=buefy&show_icons=true">
+ <img style="float: left; width: 49%;"  src="https://github-readme-stats.vercel.app/api?username=OVYVO&theme=buefy&show_icons=true">
+ <img style="float: right; width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=OVYVO&theme=buefy&show_icons=true">
 </div>
 
 
