@@ -20,7 +20,7 @@
 ## 🚀 Language And Tools
 
 <div align="center"> 
- <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVYVO&layout=compact" /> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVYVO&layout=compact" /> 
 </div>
 
 ## 🚀 Form
