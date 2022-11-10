@@ -4,7 +4,7 @@
 
 
 <div align="center">
- <img style="float: left; width: 49%;"  src="https://github-readme-stats.vercel.app/api?username=OVYVO&theme=buefy&show_icons=true&border_color=e4e2e2">
+ <img style="float: left; width: 49%;"  src="https://github-readme-stats.vercel.app/api?username=OVYVO&theme=buefy&show_icons=true&border_color=e4e2e2&hide_title=true">
  <img style="float: right; width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=OVYVO&theme=buefy&show_icons=true&border=e4e2e2">
 </div>
 
@@ -23,6 +23,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVYVO&layout=compact" /> 
 </div>
 
-## 🚀 Form
+## 🚀 Contributions
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=OVYVO&theme=minimal" /> </div>
 
