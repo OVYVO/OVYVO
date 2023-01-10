@@ -23,6 +23,4 @@
  <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVYVO&layout=compact&theme=buefy" /> 
 </div>
 
-## 🚀 Contributions
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=OVYVO&theme=minimal" /> </div>
 
