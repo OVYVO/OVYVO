@@ -17,10 +17,4 @@
 -   📫 relation me vue12306@163.com
 
 
-## 🔨 Language
-
-<div align="left"> 
- <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVYVO&layout=compact&theme=buefy" /> 
-</div>
-
 
