@@ -4,7 +4,7 @@
 
 
 <div align="center">
- <img style="float: left; width: 49%; height: 100%"  src="https://github-readme-stats.vercel.app/api?username=OVYVO&theme=buefy&show_icons=true&hide_border=false">
+ <img style="float: left; width: 49%; height: 100%"  src="https://github-readme-stats.vercel.app/api?username=OVYVO&theme=buefy&show_icons=true&hide_border=true">
  <img style="float: right; width: 49%; height: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=OVYVO&theme=buefy&show_icons=true&hide_border=true">
 </div>
 
